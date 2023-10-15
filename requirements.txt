@@ -1,0 +1,7 @@
+missingno==0.5.2
+pandas==2.1.1
+seaborn==0.12.2
+matplotlib==3.7.0
+extension==1.0.0
+fastparquet==2023.8.0
+git+https://github.com/shahriar-rahman/Python-Utils
