@@ -9,7 +9,7 @@ Data Analysis of the air pollution dataset from the U.S. Environmental Protectio
 | county_code | object | n/a | n/a | n/a | n/a | The respective code of the County. |
 | site_num | object | n/a | n/a | n/a | n/a | Identity Number of the Research Site. |
 | parameter_code | object | n/a | n/a | n/a | n/a | Code for the Parameters used. |
-| poc | int64 | 1.1 | 0.3 | 1.0 | 6.0 |  |
+| poc | int64 | 1.1 | 0.3 | 1.0 | 6.0 | Parameter Occurrence Code |
 | latitude | float64 | 37.4 | 5.0 | 18.2 | 64.8 | Lattitude Cordinates. |
 | longitude | float64 | -95.3 | 16.3 | -158.1 | -65.9 | Longitude Cordinates. |
 | datum | object | n/a | n/a | n/a | n/a | Starting Point. |
