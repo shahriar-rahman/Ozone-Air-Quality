@@ -1,6 +1,6 @@
 Exploratory Data Analysis on Ozone Air Quality data
 ==============================
-Data Analysis of the air pollution dataset from the U.S. Environmental Protection Agency (EPA). 
+Data Analysis of the air pollution dataset from the U.S. Environmental Protection Agency (EPA).  
 
 ## • Data Dictionary
 | features | dtype | mean value | standard deviation | min | max | description |
