@@ -28,7 +28,7 @@ Data Analysis of the air pollution dataset from the U.S. Environmental Protectio
 | county_name | object | n/a | n/a | n/a | n/a | Name of the County |
 | date_of_last_change | object | n/a | n/a | n/a | n/a | Last Modified Date. |
 
-<br/>  
+<br/>   
 
 ## • License:
 
