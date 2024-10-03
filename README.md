@@ -25,7 +25,7 @@ Data Analysis of the air pollution dataset from the U.S. Environmental Protectio
 | method_code | int64 | 71.1 | 43.2 | 19.0 | 901.0 | Code for the Method |
 | method_name | object | n/a | n/a | n/a | n/a | Instrument Specification. |
 | state_name | object | n/a | n/a | n/a | n/a | Name of the State. |
-| county_name | object | n/a | n/a | n/a | n/a | Name of the County |
+| county_name | object | n/a | n/a | n/a | n/a | Name of the County. |
 | date_of_last_change | object | n/a | n/a | n/a | n/a | Last Modified Date. |
 
 <br/>   
