@@ -1,4 +1,4 @@
-Exploratory Data Analysis on Ozone Air Quality data 
+Exploratory Data Analysis on Ozone Air Quality data  
 ==============================
 Data Analysis of the air pollution dataset from the U.S. Environmental Protection Agency (EPA).  
 
